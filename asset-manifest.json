@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/DisneyClone_app/static/css/main.f855e6bc.css",
+    "main.js": "/DisneyClone_app/static/js/main.29509088.js",
+    "static/js/787.b5de7b0b.chunk.js": "/DisneyClone_app/static/js/787.b5de7b0b.chunk.js",
+    "index.html": "/DisneyClone_app/index.html",
+    "main.f855e6bc.css.map": "/DisneyClone_app/static/css/main.f855e6bc.css.map",
+    "main.29509088.js.map": "/DisneyClone_app/static/js/main.29509088.js.map",
+    "787.b5de7b0b.chunk.js.map": "/DisneyClone_app/static/js/787.b5de7b0b.chunk.js.map"
+  },
+  "entrypoints": [
+    "static/css/main.f855e6bc.css",
+    "static/js/main.29509088.js"
+  ]
+}
